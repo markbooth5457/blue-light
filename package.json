@@ -1,20 +1,20 @@
 {
-    "title": "Mushin Light",
-    "name": "mushin-light",
-    "description": "Mushin Light Theme for Brackets. A Brackets original.",
+    "title": "Blue Light",
+    "name": "blue-light",
+    "description": "Blue Light Theme for Brackets. Dyslexia friendly",
     "version": "1.0.0",
-    "author": "larz0 (https://github.com/larz0)",
-    "homepage": "https://github.com/Brackets-Themes/MushinLight",
+    "author": "markbooth5457 (https://github.com/markbooth5457)",
+    "homepage": "https://github.com/markbooth5457/blue-light.git",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Brackets-Themes/MushinLight.git"
+        "url": "git@github.com:markbooth5457/blue-light.git"
     },
     "license": "MIT",
     "engines": {
         "brackets": ">=0.42.0"
     },
     "theme": {
-        "file": "mushinlight.css",
+        "file": "blue-light.css",
         "dark": false
     }
 }
